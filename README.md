@@ -32,4 +32,4 @@ Step 2 - Run Jar file
 
 <img width="412" alt="Screen Shot 2022-12-09 at 10 39 31 PM" src="https://user-images.githubusercontent.com/105135459/206827494-25326a95-238c-4c08-a674-979229cb0a29.png">
 
-<img width="357" alt="Screen Shot 2022-12-09 at 10 40 48 PM" src="https://user-images.githubusercontent.com/105135459/206827499-e4d3d1ba-7d0d-4c4a-972e-669ede802036.png"> <img width="357" alt="Screen Shot 2022-12-09 at 10 40 51 PM" src="https://user-images.githubusercontent.com/105135459/206827509-767edcee-ca8d-47ae-8b10-fa90e98e33ee.png">
+<img width="412" alt="Screen Shot 2022-12-09 at 10 40 48 PM" src="https://user-images.githubusercontent.com/105135459/206827499-e4d3d1ba-7d0d-4c4a-972e-669ede802036.png"> <img width="412" alt="Screen Shot 2022-12-09 at 10 40 51 PM" src="https://user-images.githubusercontent.com/105135459/206827509-767edcee-ca8d-47ae-8b10-fa90e98e33ee.png">
